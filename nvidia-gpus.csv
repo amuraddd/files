@@ -1,0 +1,14 @@
+GPU,Price,Link,Details
+Clara AGX Developer Kit,,,
+Data Center GPUs - A100 for PCLe 80GB,13223.99,https://www.cdw.com/product/nvidia-a100-80-gb-gpu-computing-processor-a100-tensor-core-80-gb/6678343,
+Data Center GPUs - A30 Tensor Core GPU,4999,https://www.thinkmate.com/product/nvidia/900-21001-0040-000,https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/products/a30-gpu/pdf/a30-datasheet.pdf
+Data Center GPUs - RTX A5000 24GB,2699.99,https://www.dell.com/en-us/work/shop/nvidia-rtx-a5000-graphics-card-rtx-a5000-24-gb-gddr6-pcie-40-x16-4-x-displayport/apd/ab612041/graphic-video-cards,
+Data Center GPUs - RTX A6000 48GB,5499.99,https://www.dell.com/en-us/work/shop/pny-nvidia-quadro-rtx-a6000-graphics-card-48gb-gddr6-4x-dp-ports-300w-pcie-30-retail-box/apd/ab398899/graphic-video-cards,
+Data processing Unit - BlueField-2 E-Series 100GbE Crypto Disabled,1770,https://store.nvidia.com/en-us/networking/store/product/MBF2M516A-CENOT/NVIDIAMBF2M516A-CENOTBlueFIeld-2E-SeriesDPU100GbECryptoDisabled/,
+Data processing Unit - BlueField-2 E-Series 100GbE Crypto Enabled,1995,https://store.nvidia.com/en-us/networking/store/product/MBF2M516A-CEEOT/NVIDIAMBF2M516ACEEOTBlueField2ESeriesDPU100GbECryptoEnabled/,
+Data processing Unit - BlueField-2 P-Series 25GbE Crypto Disabled,1545,https://store.nvidia.com/en-us/networking/store/product/MBF2H332A-AEEOT/NVIDIAMBF2H332AAEEOTBlueField2PSeriesDPU25GbECryptoEnabled/,
+Data processing Unit - BlueField-2 P-Series 25GbE Crypto Enabled,1385,https://store.nvidia.com/en-us/networking/store/product/MBF2H332A-AENOT/NVIDIAMBF2H332AAENOTBlueField2PSeriesDPU25GbECryptoDisabled/,
+Jetson - Jetson AGX Xavier Developer Kit (US & Others) - 32GB,2935,https://www.amazon.com/NVIDIA-Jetson-Xavier-Developer-32GB/dp/B083ZL3X5B/,
+Jetson - Jetson Nano 2GB Developer Kit (no WIFI),145,https://www.amazon.com/dp/B08J157LHH,
+Jetson - Jetson Nano 2GB Developer Kit (w/WIFI),,,
+Jetson - Jetson Nano 4GB Developer Kit,379,https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT,
